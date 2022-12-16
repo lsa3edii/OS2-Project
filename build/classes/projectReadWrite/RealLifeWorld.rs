@@ -1,0 +1,4 @@
+projectReadWrite.ReaderWritersProblemCashMachines$Read
+projectReadWrite.ReaderWritersProblemCashMachines
+projectReadWrite.ReaderWritersProblemCashMachines$BankAccount
+projectReadWrite.ReaderWritersProblemCashMachines$Write
